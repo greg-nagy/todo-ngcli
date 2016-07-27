@@ -1,3 +1,19 @@
+# Short intro
+
+This repo is based on [this tutorial](https://www.sitepoint.com/angular-2-tutorial/). Thanks guys!
+
+This is a [TodoMVC] (http://todomvc.com/) implementation in angular 2 RC4. 
+
+To use this repo, you need to have ng-cli, typescript and typings
+
+```shell
+$ npm install -g typescript typings angular-cli
+```
+
+The commits are in order, so you can follow every step based on the commit messages and the diffs.
+
+The e2e test are not implemented yet! But it's comming soon ... :) 
+
 # TodoNgcli
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.10.
